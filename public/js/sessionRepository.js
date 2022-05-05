@@ -45,6 +45,6 @@ function getSessions() {
 }
 
 export {getSessions as default, sessionURL};
-export {sessionTemplate} from './template.js' //this is aggregating modules
+export {sessionTemplate} from './template.js'; //this is aggregating modules
 
 
